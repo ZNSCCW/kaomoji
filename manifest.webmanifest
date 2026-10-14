@@ -1,0 +1,19 @@
+{
+  "name": "颜文字管理",
+  "short_name": "颜文字",
+  "description": "移动端颜文字管理：分类浏览、搜索、一键复制、收藏与最近使用、自定义增删改、本地备份。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F7FB",
+  "theme_color": "#7C5CFF",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
